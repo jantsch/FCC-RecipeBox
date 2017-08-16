@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": "8658c1d0-9eda-4a90-95e1-8001e8eb6036",
+      "name": "Feijoada",
+      "ingredients":"Arroz Branco, Bacon"
+    },
+    {
+      "id": "8658c1d0-9eda-4a90-95e1-8001e8eb6037",
+      "name": "Branquinho",
+      "ingredients":"Leite Condensado, Manteiga, Leite em Pó, Coco "
+    },
+    {
+      "id": "8658c1d0-9eda-4a90-95e1-8001e8eb6038",
+      "name": "Negrinho",
+      "ingredients":"Leite Condensado, Manteiga, Chocolate em Pó"
+    }
+  ]
+}

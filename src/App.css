@@ -1,0 +1,15 @@
+
+
+.App-header {
+  background-color: #222;
+  height: 120px;
+  padding: 20px;
+  color: white;
+}
+
+.Add-button{
+  margin-top: 10px;
+}
+.greyBackground{
+  background: rgba(000, 000, 000, 0.8);
+}
